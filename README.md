@@ -1,5 +1,5 @@
-# shopping-cart
-A shopping cart created using Ruby on Rails.
+# purchasing trolley
+A trolley created using Ruby on Rails.
 
 # Design decisions
 
